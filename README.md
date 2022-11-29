@@ -22,13 +22,13 @@ You can pass the following arguments when using the tool. The order which you su
 
 ## Usage
 
-### Dependencies
+### Dependencies (one time)
 
 - You have [`git`](https://git-scm.com/) installed on your computer
 - You have [`gh`](https://cli.github.com/) installed on your computer
 - You have [SSH access to the tracking repo](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
-### Installing dependencies
+**1. Installing dependencies**
 
 Before moving on, do the following
 
@@ -41,7 +41,7 @@ You can install the dependencies automatically by running the following command 
 sh ./dependencies.sh
 ```
 
-### Login to `gh`
+**2. Login to `gh`**
 
 When done, you have to login to `gh` by running the following command and following the steps —
 
