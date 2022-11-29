@@ -2,7 +2,7 @@
 
 This tool allows you to fork a repository to an account and then record it under another repository.
 
-### Terms to know
+**Terms to know**
 
 - Target repository: The repo being forked
 - Tracking repository: The repo where you want to record the forked repo
@@ -10,7 +10,7 @@ This tool allows you to fork a repository to an account and then record it under
   - pusher is the owner of this repo https://github.com/pusher/tutorials
   - ovieokeh is the owner of this repo https://github.com/ovieokeh/personal
 
-### Available parameters
+**Available parameters**
 
 You can pass the following arguments when using the tool. The order which you supply these matter.
 
@@ -22,7 +22,7 @@ You can pass the following arguments when using the tool. The order which you su
 
 ## Usage
 
-### Dependencies (one time)
+### Dependencies (do only once)
 
 - You have [`git`](https://git-scm.com/) installed on your computer
 - You have [`gh`](https://cli.github.com/) installed on your computer
