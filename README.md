@@ -8,7 +8,7 @@ This tool allows you to fork a repository to an account and then record it under
 - Tracking repository: The repo where you want to record the forked repo
 - Owner of a repository: The account that owns a repository e.g
   - pusher is the owner of this repo https://github.com/pusher/tutorials
-  - ovieokeh is the owner of this repo https://github.com/ovieokeh/personal"
+  - ovieokeh is the owner of this repo https://github.com/ovieokeh/personal
 
 ### Available parameters
 
