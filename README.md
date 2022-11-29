@@ -22,7 +22,15 @@ You can pass the following arguments when using the tool. The order which you su
 
 ### Pre-requisites to use
 
+- You have `git` installed on your computer
+- You have `gh` installed on your computer
 - You have [SSH access to the tracking repo](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
+You can install the pre-requisites automatically by running the following command in the project root —
+
+```
+sh ./requirements.sh
+```
 
 ### Usage
 
